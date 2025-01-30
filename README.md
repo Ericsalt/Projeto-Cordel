@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  Site simples focado no teste de efeitos visuais específicos com CSS.
 
-- [Acesse o projeto finalizado, online](https://ericsalt.github.io/Projeto-Cordel/)
+- [Acesse o projeto finalizado, online](https://ericsalt.github.io/Projeto-Espro/)
 
 
 Esse projeto está sob a licença MIT.
